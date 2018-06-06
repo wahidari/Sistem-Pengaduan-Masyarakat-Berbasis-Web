@@ -52,57 +52,46 @@
 
     - Home
 
-        ![](./ss/user/.png)
+        ![](./ss/user/user-home-1.png)
         
-    - 
-
-        ![](./ss/user/.png)
+        ![](./ss/user/user-home-2.png)
         
-    - 
+    - Lapor
 
-        ![](./ss/user/.png)
+        ![](./ss/user/user-lapor-1.png)
         
-    - 
+    - Lihat
 
-        ![](./ss/user/.png)
+        ![](./ss/user/user-lihat-1.png)
+
+        ![](./ss/user/user-lihat-2.png)
         
-    - 
+    - Cara
 
-        ![](./ss/user/.png)
+        ![](./ss/user/user-cara.png)
         
-    - 
+    - FAQ
 
-        ![](./ss/user/.png)
+        ![](./ss/user/user-faq.png)
         
-    - 
+    - Bantuan
 
-        ![](./ss/user/.png)
+        ![](./ss/user/user-bantuan.png)
         
-    - 
+    - Kontak
 
-        ![](./ss/user/.png)
+        ![](./ss/user/user-kontak.png)
         
-    - 
+    - Profil Dinas
 
-        ![](./ss/user/.png)
+        ![](./ss/user/user-profildinas.png)
         
-    - 
-
-        ![](./ss/user/.png)
+        ![](./ss/user/user-profildinas-motto.png)
         
-    - 
-
-        ![](./ss/user/.png)
+        ![](./ss/user/user-profildinas-struktur.png)
         
-    - 
-
-        ![](./ss/user/.png)
-        
-    - 
-
-        ![](./ss/user/.png)
-     
-     
+        ![](./ss/user/user-profildinas-visi.png)
+    
     
 ## License
 > This program is Free Software: 

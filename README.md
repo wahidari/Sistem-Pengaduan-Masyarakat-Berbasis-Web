@@ -7,11 +7,11 @@
 
 ## Language
 
-- [![](https://img.shields.io/badge/html-5-FF5722.svg)] (https://wahidari.gitlab.io) 
-- [![](https://img.shields.io/badge/css-3-03A9F4.svg)] (https://wahidari.gitlab.io)
-- [![](https://img.shields.io/badge/javascript-1.8-FFCA28.svg)] (https://wahidari.gitlab.io)
-- [![](https://img.shields.io/badge/php-7.1.8-673AB7.svg)] (https://wahidari.gitlab.io) 
-- [![](https://img.shields.io/badge/mysql-5.0.12-yellow.svg)] (https://wahidari.gitlab.io) 
+- [![](https://img.shields.io/badge/html-5-FF5722.svg)](https://wahidari.gitlab.io) 
+- [![](https://img.shields.io/badge/css-3-03A9F4.svg)](https://wahidari.gitlab.io)
+- [![](https://img.shields.io/badge/javascript-1.8-FFCA28.svg)](https://wahidari.gitlab.io)
+- [![](https://img.shields.io/badge/php-7.1.8-673AB7.svg)](https://wahidari.gitlab.io) 
+- [![](https://img.shields.io/badge/mysql-5.0.12-yellow.svg)](https://wahidari.gitlab.io) 
 
 ## Screenshot
 

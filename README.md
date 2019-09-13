@@ -92,8 +92,7 @@
         ![](./ss/user/user-profildinas-struktur.png)
         
         ![](./ss/user/user-profildinas-visi.png)
-    
-    
+        
 ## License
 > This program is Free Software: 
 You can use, study, share and improve it at your will. 

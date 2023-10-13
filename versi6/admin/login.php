@@ -4,6 +4,7 @@
 <?php
     require_once("database.php");
     // Proses dari form login
+    // password same with username
     $message = "";
     if (isset($_POST['login']) && $_POST['login'] == "Login") {
         $username    = $_POST['username']; //simpan input dari username ke var username

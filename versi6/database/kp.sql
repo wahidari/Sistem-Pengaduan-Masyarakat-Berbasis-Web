@@ -36,7 +36,7 @@ CREATE TABLE `admin` (
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_bin;
 
 --
--- Dumping data for table `admin`
+-- Dumping data for table `admin`. password same with username
 --
 
 INSERT INTO `admin` (`id_admin`, `username`, `password`, `divisi`) VALUES
